@@ -1,4 +1,4 @@
-# NLW Setup - Habits
+# 🚀 NLW Setup - Habits
 
 ![image](https://user-images.githubusercontent.com/64651224/213896950-cc3fe528-0b2b-427b-aa77-e41c2000fe9a.png)
 
